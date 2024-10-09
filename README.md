@@ -167,7 +167,4 @@ cogs DECIMAL(10,4) NOT NULL,
 gross_margin_percentage FLOAT(11,9),
 gross_income DECIMAL(12,4) NOT NULL,
 rating FLOAT(2,1)
-);(10,2) NOT NULL,
-    gross_margin_pct FLOAT(11,9),
-    gross_income DECIMAL(12, 4),
-    rating FLOAT(2, 1)
+);
